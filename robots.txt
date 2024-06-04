@@ -7,3 +7,4 @@ Sitemap: https://xuanyuan.me/blog/category-sitemap.xml
 Sitemap: https://xuanyuan.me/blog/post_tag-sitemap.xml
 Sitemap: https://xuanyuan.me/blog/author-sitemap.xml
 Sitemap: https://xuanyuan.me/blog/page-sitemap.xml
+Sitemap: https://xuanyuan.me/blog/hackintosh.xml
